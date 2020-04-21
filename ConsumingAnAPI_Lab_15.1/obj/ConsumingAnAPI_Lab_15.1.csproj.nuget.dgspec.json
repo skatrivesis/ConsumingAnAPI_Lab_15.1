@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\skatrivesis\\OneDrive - Knex\\Documents\\GrandCircus\\Labs\\ConsumingAnAPI_Lab_15.1\\ConsumingAnAPI_Lab_15.1\\ConsumingAnAPI_Lab_15.1.csproj": {}
+    "C:\\Users\\skatrivesis\\OneDrive - KNEX\\Documents\\GrandCircus\\Labs\\ConsumingAnAPI_Lab_15.1\\ConsumingAnAPI_Lab_15.1\\ConsumingAnAPI_Lab_15.1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\skatrivesis\\OneDrive - Knex\\Documents\\GrandCircus\\Labs\\ConsumingAnAPI_Lab_15.1\\ConsumingAnAPI_Lab_15.1\\ConsumingAnAPI_Lab_15.1.csproj": {
+    "C:\\Users\\skatrivesis\\OneDrive - KNEX\\Documents\\GrandCircus\\Labs\\ConsumingAnAPI_Lab_15.1\\ConsumingAnAPI_Lab_15.1\\ConsumingAnAPI_Lab_15.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\skatrivesis\\OneDrive - Knex\\Documents\\GrandCircus\\Labs\\ConsumingAnAPI_Lab_15.1\\ConsumingAnAPI_Lab_15.1\\ConsumingAnAPI_Lab_15.1.csproj",
+        "projectUniqueName": "C:\\Users\\skatrivesis\\OneDrive - KNEX\\Documents\\GrandCircus\\Labs\\ConsumingAnAPI_Lab_15.1\\ConsumingAnAPI_Lab_15.1\\ConsumingAnAPI_Lab_15.1.csproj",
         "projectName": "ConsumingAnAPI_Lab_15.1",
-        "projectPath": "C:\\Users\\skatrivesis\\OneDrive - Knex\\Documents\\GrandCircus\\Labs\\ConsumingAnAPI_Lab_15.1\\ConsumingAnAPI_Lab_15.1\\ConsumingAnAPI_Lab_15.1.csproj",
+        "projectPath": "C:\\Users\\skatrivesis\\OneDrive - KNEX\\Documents\\GrandCircus\\Labs\\ConsumingAnAPI_Lab_15.1\\ConsumingAnAPI_Lab_15.1\\ConsumingAnAPI_Lab_15.1.csproj",
         "packagesPath": "C:\\Users\\skatrivesis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\skatrivesis\\OneDrive - Knex\\Documents\\GrandCircus\\Labs\\ConsumingAnAPI_Lab_15.1\\ConsumingAnAPI_Lab_15.1\\obj\\",
+        "outputPath": "C:\\Users\\skatrivesis\\OneDrive - KNEX\\Documents\\GrandCircus\\Labs\\ConsumingAnAPI_Lab_15.1\\ConsumingAnAPI_Lab_15.1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

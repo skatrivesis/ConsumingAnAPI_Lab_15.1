@@ -36,9 +36,9 @@ namespace ConsumingAnAPI_Lab_15._1.Controllers
             return View(deck);
         }
 
-        public async Task<IActionResult> DrawFive()
+        public async Task<IActionResult> DrawFive(string id)
         {
-            string deckId = (string)ViewData["Deck_Id"];
+            string deckId = id;
 
             var client = new HttpClient();
             client.BaseAddress = new Uri("https://deckofcardsapi.com");
