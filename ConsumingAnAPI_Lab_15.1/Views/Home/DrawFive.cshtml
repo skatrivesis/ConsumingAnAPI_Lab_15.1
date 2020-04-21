@@ -1,0 +1,16 @@
+﻿@model Deck
+@{
+    ViewData["Title"] = "DrawFive";
+    int numItems = Model.Cards.Length;
+}
+
+<h1>DrawFive</h1>
+
+<table>
+    @for (int i = 0; i < numItems; i++)
+        {
+            <tr>
+                <td><img title="Playing Card" src="@Model.Cards[i].Image" /></td>
+            </tr>
+        }
+</table>

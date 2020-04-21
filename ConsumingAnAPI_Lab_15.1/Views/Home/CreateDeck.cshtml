@@ -1,0 +1,18 @@
+﻿@model Deck
+@{
+    ViewData["Title"] = "CreateDeck";
+    ViewData["Deck_Id"] = Model.Deck_id;
+}
+
+<h1>CreateDeck</h1>
+
+<table>
+    <tr>
+        <td>Deck ID: @Model.Deck_id</td>
+        <td>Deck ID: @Model.Deck_id</td>
+    </tr>
+    <tr>
+        <td><a href="/Home/DrawFive/@Model.Deck_id" title ="deckId" value="@Model.Deck_id">Draw five cards!</a></td>
+        <td><button asp-controller="Home" asp-action="DrawFive" value="@Model.Deck_id" title="deckId">Draw Five</button><td>
+    </tr>
+</table>
