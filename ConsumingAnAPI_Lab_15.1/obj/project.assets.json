@@ -6068,7 +6068,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\skatrivesis\\.nuget\\packages\\": {},
+    "C:\\Users\\skatrivesis-\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -6077,14 +6077,14 @@
       "projectUniqueName": "C:\\Users\\skatrivesis\\OneDrive - Knex\\Documents\\GrandCircus\\Labs\\ConsumingAnAPI_Lab_15.1\\ConsumingAnAPI_Lab_15.1\\ConsumingAnAPI_Lab_15.1.csproj",
       "projectName": "ConsumingAnAPI_Lab_15.1",
       "projectPath": "C:\\Users\\skatrivesis\\OneDrive - Knex\\Documents\\GrandCircus\\Labs\\ConsumingAnAPI_Lab_15.1\\ConsumingAnAPI_Lab_15.1\\ConsumingAnAPI_Lab_15.1.csproj",
-      "packagesPath": "C:\\Users\\skatrivesis\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\skatrivesis-\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\skatrivesis\\OneDrive - Knex\\Documents\\GrandCircus\\Labs\\ConsumingAnAPI_Lab_15.1\\ConsumingAnAPI_Lab_15.1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\skatrivesis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\skatrivesis-\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

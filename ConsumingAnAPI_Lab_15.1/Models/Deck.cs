@@ -9,10 +9,10 @@ namespace ConsumingAnAPI_Lab_15._1.Models
     {
         public string Deck_id { get; set; }
 
-        public DeckOfCards[] Cards { get; set; }
+        public Card[] Cards { get; set; }
     }
 
-    public class DeckOfCards
+    public class Card
     {
         public string Image { get; set; }
         public string Value { get; set; }

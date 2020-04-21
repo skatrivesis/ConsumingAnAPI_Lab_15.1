@@ -45,7 +45,7 @@ namespace ConsumingAnAPI_Lab_15._1.Controllers
 
             var response = await client.GetAsync($"api/deck/{deckId}/draw/?count=5");
 
-            var deck = await response.Content.ReadAsAsync<DeckOfCards>();
+            var deck = await response.Content.ReadAsAsync<Deck>();
 
             return View(deck);
         }
